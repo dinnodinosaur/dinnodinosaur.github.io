@@ -1,4 +1,4 @@
-- Zhitong Cui, Shuhong Wang, <strong>Junxian Li</strong>, Shijian Luo, and Alexandra Ion. 2023. MiuraKit: A Modular Hands-On Construction Kit For Pneumatic Shape-Changing And Robotic Interfaces. <strong>In Proceedings of the 2023 ACM Designing Interactive Systems Conference (DIS '23)</strong>.  [[Paper]](https://doi.org/10.1145/3563657.3596108)
+- Zhitong Cui, Shuhong Wang, <strong>Junxian Li</strong>, Shijian Luo, and Alexandra Ion. 2023. MiuraKit: A Modular Hands-On Construction Kit For Pneumatic Shape-Changing And Robotic Interfaces. <strong>In Proceedings of the 2023 ACM Designing Interactive Systems Conference (DIS '23)</strong>.  [[Paper]](https://doi.org/10.1145/3563657.3596108)[[Code]](https://github.com/dinnodinosaur/Origami-Actuators)
 
 - <strong>Junxian Li</strong>, Yanan Wang, Hebo Gong, and Zhitong Cui. 2023. AwakenFlora: Exploring Proactive Smell Experience in Virtual Reality through Mid-Air Gestures. <strong>In Adjunct Proceedings of the 36th Annual ACM Symposium on User Interface Software and Technology (UIST '23 Adjunct)</strong>. [[Paper]](https://doi.org/10.1145/3586182.3616667)
 
