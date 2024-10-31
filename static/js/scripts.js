@@ -1,6 +1,6 @@
 const content_dir = 'contents/';
 const config_file = 'config.yml';
-const section_names = ['home', 'publications', 'awards']; // 添加 other-projects
+const section_names = ['home', 'publications', 'awards','otherprojects']; // 添加 other-projects
 
 
 window.addEventListener('DOMContentLoaded', event => {
