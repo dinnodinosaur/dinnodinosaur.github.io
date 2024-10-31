@@ -1,9 +1,8 @@
-- First-prize Academic Scholarship, 2023.
-
-- Freshman Academic Scholarship, 2022.
-
-- Excellent Graduation Project of Jiangsu Province, 2022.
-
-- First-prize Enterprise Scholarship, 2021.
-
-- First-prize Academic Scholarship, 2019.
+- Second Prize Academic Scholarship, 2018.
+- Second Prize Academic Scholarship, 2019.
+- Excellent Graduate Student, 2023.
+- Five Good Graduate Student, 2023.
+- Huawei Elite Scholarship, 2023.
+- Special Award Academic Scholarship，2023.
+- Excellent Graduate Student, 2024.
+- Second Prize Academic Scholarship, 2024.
