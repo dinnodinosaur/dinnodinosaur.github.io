@@ -13,4 +13,3 @@ B.E., Computer Science and Technology, the School of Computer Science and Techno
 
 #### Research Interests
 Virtual Reality,  Immersive Analytics, Interaction Design, Multisensory Interaction, Game Design, Fabrication<strong>Open to new things!</strong>.
-
