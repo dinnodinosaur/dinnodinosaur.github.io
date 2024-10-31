@@ -55,12 +55,12 @@ window.addEventListener('DOMContentLoaded', event => {
             .catch(error => console.log(error));
     });
 
-    // fetch(content_dir + 'other.md')
-    // .then(response => response.text())
-    // .then(markdown => {
-    //     console.log(markdown); // 输出内容查看
-    //     const html = marked.parse(markdown);
-    //     document.getElementById('other-md').innerHTML = html;
-    // })
-    // .catch(error => console.log(error));
+    fetch(content_dir + 'other.md')
+    .then(response => response.text())
+    .then(markdown => {
+        console.log(markdown); // 输出内容查看
+        const html = marked.parse(markdown);
+        document.getElementById('other-md').innerHTML = html;
+    })
+    .catch(error => console.log(error));
 });
