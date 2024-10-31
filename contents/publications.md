@@ -2,4 +2,4 @@
 
 - <strong>Junxian Li</strong>, Yanan Wang, Hebo Gong, and Zhitong Cui. 2023. AwakenFlora: Exploring Proactive Smell Experience in Virtual Reality through Mid-Air Gestures. <strong>In Adjunct Proceedings of the 36th Annual ACM Symposium on User Interface Software and Technology (UIST '23 Adjunct)</strong>. [[Paper]](https://doi.org/10.1145/3586182.3616667)
 
-- Yang Lu, <strong>Junxian Li</strong>, Zhitong Cui, Jiapeng Hu, Yanna Lin, and Shijian Luo. 2024. Designing Spatial Visualization and Interactions of Immersive Sankey Diagram in Virtual Reality. <strong>In Proceedings of the 32nd ACM International Conference on Multimedia (MM '24)</strong>.  [[Paper]](https://doi.org/10.1145/3664647.3681460)
+- Yang Lu, <strong>Junxian Li</strong>, Zhitong Cui, Jiapeng Hu, Yanna Lin, and Shijian Luo. 2024. Designing Spatial Visualization and Interactions of Immersive Sankey Diagram in Virtual Reality. <strong>In Proceedings of the 32nd ACM International Conference on Multimedia (MM '24)</strong>.  [[Paper]](https://doi.org/10.1145/3664647.3681460)[[Code]](https://github.com/dinnodinosaur/VRSankey)
