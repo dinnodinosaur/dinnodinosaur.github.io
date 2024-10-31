@@ -1,10 +1,8 @@
 const content_dir = 'contents/';
 const config_file = 'config.yml';
-const section_names = ['home', 'publications', 'awards']; // 添加 other-projects
-
+const section_names = ['home', 'publications', 'awards', 'other'];
 
 window.addEventListener('DOMContentLoaded', event => {
-
     // Activate Bootstrap scrollspy on the main nav element
     const mainNav = document.body.querySelector('#mainNav');
     if (mainNav) {
@@ -12,7 +10,7 @@ window.addEventListener('DOMContentLoaded', event => {
             target: '#mainNav',
             offset: 74,
         });
-    };
+    }
 
     // Collapse responsive navbar when toggler is visible
     const navbarToggler = document.body.querySelector('.navbar-toggler');
@@ -56,5 +54,4 @@ window.addEventListener('DOMContentLoaded', event => {
             })
             .catch(error => console.log(error));
     });
-
 });
