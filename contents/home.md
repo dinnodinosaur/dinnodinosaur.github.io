@@ -9,7 +9,7 @@ junxianli@zju.edu.cn
 
 #### Education
 M.S., Design, the School of Computer Science and Technology in Zhejiang University, 2022—2025 (expected).\
-B.E., Computer Science and Technology, the School of Computer Science and Technology in Zhejiang University, 2017—2022.
+B.S., Computer Science and Technology, the School of Computer Science and Technology in Zhejiang University, 2017—2022.
 
 #### Research Interests
 Virtual Reality,  Immersive Analytics, Interaction Design, Multisensory Interaction, Game Design, Fabrication, <strong>Open to new things!</strong>.
