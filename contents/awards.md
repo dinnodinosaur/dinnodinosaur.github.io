@@ -1,8 +1,8 @@
-- Second Prize Academic Scholarship, 2024.
+- ￥7000 Second Prize Academic Scholarship, 2024.
+- ￥20000 Special Award Scholarship (National Scholarship for Hong Kong, Macao, and Overseas Chinese Communities)，2023.
+- ￥10000 Huawei Elite Scholarship, 2023.
+- ￥8000 Second Prize Academic Scholarship, 2019.
+- ￥8000 Second Prize Academic Scholarship, 2018.
 - Excellent Graduate Student, 2024.
-- Special Award Academic Scholarship，2023.
-- Huawei Elite Scholarship, 2023.
 - Five Good Graduate Student, 2023.
 - Excellent Graduate Student, 2023.
-- Second Prize Academic Scholarship, 2019.
-- Second Prize Academic Scholarship, 2018.
