@@ -1,6 +1,6 @@
 - <strong>Li, J.</strong>, Wang, Y., Cui, Z., Brooks, J, Yan, Y., Lou, Z., Li, Y. Mid-Air Gestures for Proactive Olfactory Interactions in Virtual Reality. Accepted at CHI 2025.
 
-- Zhou, L., Zhang, Y., An, X., <strong>Li, J.</strong> 2025. E-scent Coach: A Wearable Olfactory System to Guide Deep Breathing Synchronized with Yoga Postures. In Proceedings of the Nineteenth International Conference on Tangible, Embedded, and Embodied Interaction (TEI '25).  [[Paper]](https://doi.org/10.1145/3689050.3704927)
+- Zhou, L., Zhang, Y., An, X., <strong>Li, J.</strong> 2025. E-scent Coach: A Wearable Olfactory System to Guide Deep Breathing Synchronized with Yoga Postures. <strong>In Proceedings of the Nineteenth International Conference on Tangible, Embedded, and Embodied Interaction (TEI '25)</strong>.  [[Paper]](https://doi.org/10.1145/3689050.3704927)
 
 - Li, Y., Wang, Y., Xiong, M., Max, C., Yan Y., <strong>Li, J.</strong>, .... AromaBite: Augmenting Flavor Experiences Through Edible Retronasal Scent Release. Accepted at CHI LBW 2025.
 
