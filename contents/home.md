@@ -1,5 +1,5 @@
 
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-scholar-blue?logo=google-scholar)](https://scholar.google.com/citations?user=YHWmHcYAAAAJ)\
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-scholar-blue?logo=google-scholar)](https://scholar.google.com/citations?user=YHWmHcYAAAAJ)
 [![dinnodinosaur](https://img.shields.io/badge/dinnodinosaur-github-blue?logo=github)](https://github.com/dinnodinosaur)
 
 [[CV]](https://raw.githubusercontent.com/dinnodinosaur/dinnodinosaur.github.io/main/contents/Junxian%20Li_CV.pdf)\
