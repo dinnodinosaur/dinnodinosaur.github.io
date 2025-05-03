@@ -1,5 +1,5 @@
 - Second Prize Scholarship for Hong Kong, Macao, and Overseas Chinese Communities, 2024.
-- Special Award Scholarship for Hong Kong, Macao, and Overseas Chinese Communities，2023.
+- Special Award Scholarship for Hong Kong, Macao, and Overseas Chinese Communities，2023(Top 1).
 - Huawei Elite Scholarship, 2023.
 - Second Prize Scholarship for Hong Kong, Macao, and Overseas Chinese Communities, 2019.
 - Second Prize Scholarship for Hong Kong, Macao, and Overseas Chinese Communities , 2018.
