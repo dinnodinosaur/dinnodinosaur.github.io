@@ -12,7 +12,9 @@ junxianli[at]zju.edu.cn
 
 #### Education
 Ph.D., Computer Science and Engineering, The Hong Kong University of Science and Technology (HKUST), 2025—Present.
+
 M.S., Design, School of Computer Science and Technology, Zhejiang University, 2022—2025.
+
 B.S., Computer Science and Technology, School of Computer Science and Technology, Zhejiang University, 2017—2022.
 
 #### Research Interests
